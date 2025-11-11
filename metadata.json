@@ -1,0 +1,7 @@
+{
+  "name": "Super.money Clone",
+  "description": "A visually faithful clone of the Super.money mobile application's UI, focusing on savings, travel deals, and financial tools. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
